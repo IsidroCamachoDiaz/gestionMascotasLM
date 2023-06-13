@@ -1,0 +1,22 @@
+button{
+	background:blue;
+}
+label{
+	color:blue;
+	font-weight:20px;
+}
+body{
+	display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.col-sm-4 {
+  text-align: center;
+}
+a{
+	text-decoration:none;
+	color:black;
+}
+.col-4{
+	height:200px;
+}
